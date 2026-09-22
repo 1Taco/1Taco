@@ -8,15 +8,7 @@
 - Full-stack development
 
 🛠️ Tech I work with:
-- JavaScript
-- TypeScript
-- C++
-- Python
-- SQL
-- React
-- NestJS
-- PostgreSQL
-- Git
+- JavaScript • TypeScript • C++ • Python • SQL • React • NestJS • PostgreSQL • Git
 
 🚀 Current focus:
 - Building practical projects
