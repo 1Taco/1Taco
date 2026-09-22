@@ -1,4 +1,4 @@
-# Hi, I'm Mykolas 👋
+## Hi, I'm Mykolas 👋
 
 💻 Aspiring IT & Software Developer based in Vilnius
 
