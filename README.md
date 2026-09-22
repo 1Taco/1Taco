@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Mykolas 👋
 
-<!--
-**1Taco/1Taco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring IT & Software Developer based in Vilnius
 
-Here are some ideas to get you started:
+🌱 Currently learning:
+- JavaScript through freeCodeCamp
+- React and TypeScript
+- Full-stack development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech I work with:
+- JavaScript
+- TypeScript
+- C++
+- Python
+- SQL
+- React
+- NestJS
+- PostgreSQL
+- Git
+
+🚀 Current focus:
+- Building practical projects
+- Improving my frontend and backend skills
+- Preparing for junior IT / software development roles
